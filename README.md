@@ -1,4 +1,4 @@
-ntroduction to AWS Incident Response (IR)
+Introduction to AWS Incident Response (IR)
 
 With over a decade of experience in Digital Forensics and Incident Response (DFIR), I’ve worked on numerous cases involving memory forensics, mobile forensics, and digital investigations. My journey in cybersecurity has taught me that cloud security incidents require a different approach compared to traditional infrastructure. In today’s cloud-driven world, security incidents are just a part of the game. If you’re using Amazon Web Services (AWS), you need a solid plan to detect, mitigate, and recover from security threats quickly. AWS provides some great security tools, but how you use them makes all the difference. Having a well-thought-out Incident Response (IR) strategy can save your business from downtime, data loss, and compliance issues.
 
